@@ -1,19 +1,18 @@
-# Hi 👋, I'm [Your Name]
-**[Your Title/Role - e.g., Student, Developer, Learner]**
+# Hi 👋, I'm Praveen
+**Software Engineer**
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=[your-username].[your-username])
+![](https://visitor-badge.glitch.me/badge?page_id=praveenkumardec89.praveenkumardec89)
 
 ---
 
 ## About Me
-* 🌱 I'm currently learning **[technologies you're learning]**
-* 💬 Ask me about **[your areas of expertise]**
-* 📫 How to reach me **[your-email@example.com]**
-* ⚡ Fun fact: **[something interesting about you]**
+* 🌱 I'm currently learning **ML, AI, LLMs, RAG**
+* 💬 Ask me about **everything software**
+* 📫 How to reach me **praveenkumardec89@gmail.com**
 
 ---
 

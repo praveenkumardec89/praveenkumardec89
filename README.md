@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/[your-linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/[your-twitter]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/[your-instagram]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://github.com/[your-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://github.com/praveenkumardec89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
@@ -45,11 +45,11 @@
 ---
 
 ## GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-username]&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkumardec89&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&locale=en&theme=radical" alt="github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumardec89&show_icons=true&locale=en&theme=radical" alt="github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="github streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumardec89&theme=radical" alt="github streak" /></p>
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## Trophy:
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api/?username=[your-username]&theme=radical" alt="github trophy" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api/?username=praveenkumardec89&theme=radical" alt="github trophy" /></a> 
 </p>
 
 ---

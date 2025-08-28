@@ -2,10 +2,11 @@
 **Software Engineer**
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=praveenkumardec89&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=praveenkumardec89.praveenkumardec89)
+<!-- Alternative visitor counter (instead of glitch) -->
+<img src="https://count.getloli.com/get/@praveenkumardec89?theme=rule34" alt="visitor badge"/>
 
 ---
 

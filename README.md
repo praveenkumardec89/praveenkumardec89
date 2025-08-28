@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=praveenkumardec89.praveenkumardec89)
+![](https://visitor-badge.glitch.me/badge?page_id=praveenkumardec89)
 
 ---
 

@@ -19,9 +19,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/[your-twitter]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/[your-instagram]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/praveen-g-ab25822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/praveen_gundu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://github.com/praveenkumardec89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
@@ -68,9 +67,7 @@
 ---
 
 ## Current Projects:
-- 🔭 I'm currently working on **[Project Name]**
-- 👯 I'm looking to collaborate on **[Open Source Projects]**
-- 🤔 I'm looking for help with **[Technology/Framework]**
+- 🔭 I'm currently working on **Agentic AI**
 
 ---
 
@@ -86,4 +83,4 @@
 
 ---
 
-⭐️ From [your-username](https://github.com/[your-username])
+⭐️ From [your-username](https://github.com/praveenkumardec89)

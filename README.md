@@ -49,6 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumardec89&show_icons=true&locale=en&theme=radical" alt="github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumardec89&theme=radical" alt="github streak" /></p>
-
 ---
